@@ -1,0 +1,706 @@
+,Student_ID,Age,Gender,Academic_Level,Avg_Daily_Usage_Hours,Most_Used_Platform,Affects_Academic_Performance,Sleep_Hours_Per_Night,Mental_Health_Score,Relationship_Status,Conflicts_Over_Social_Media,Addicted_Score
+0,1,19,1,1,5.2,Instagram,1,6.5,6,In Relationship,3,8
+1,2,22,0,2,2.1,Twitter,0,7.5,8,Single,0,3
+2,3,20,1,1,6.0,TikTok,1,5.0,5,Complicated,4,9
+3,4,18,0,0,3.0,YouTube,0,7.0,7,Single,1,4
+4,5,21,0,2,4.5,Facebook,1,6.0,6,In Relationship,2,7
+5,6,19,1,1,7.2,Instagram,1,4.5,4,Complicated,5,9
+6,7,23,0,2,1.5,LinkedIn,0,8.0,9,Single,0,2
+7,8,20,1,1,5.8,Snapchat,1,6.0,6,In Relationship,2,8
+8,9,18,0,0,4.0,TikTok,0,6.5,7,Single,1,5
+9,10,21,1,2,3.3,Instagram,0,7.0,7,In Relationship,1,4
+10,11,19,0,1,4.8,Snapchat,1,6.2,5,Complicated,3,7
+11,12,20,1,1,5.5,TikTok,1,5.8,6,In Relationship,2,8
+12,13,22,0,2,2.8,LinkedIn,0,7.2,8,Single,1,4
+13,14,18,1,0,6.5,Instagram,1,5.5,5,Single,4,9
+14,15,21,0,1,3.7,YouTube,0,6.8,7,In Relationship,2,5
+15,16,20,1,1,4.2,TikTok,1,6.0,6,Complicated,3,7
+16,17,24,0,2,2.0,LinkedIn,0,7.8,8,Single,0,3
+17,18,19,1,0,5.0,Instagram,1,5.7,5,In Relationship,3,8
+18,19,21,0,1,3.5,Facebook,0,6.7,7,Single,1,5
+19,20,20,1,1,4.7,Snapchat,1,5.9,6,Complicated,3,7
+20,21,18,0,0,5.3,TikTok,1,5.5,5,Single,4,8
+21,22,23,1,2,2.5,LinkedIn,0,7.3,8,In Relationship,1,4
+22,23,19,0,1,4.9,Instagram,1,5.8,6,Complicated,3,7
+23,24,20,1,1,5.7,TikTok,1,5.4,5,Single,4,8
+24,25,22,0,2,3.2,Facebook,0,6.9,7,In Relationship,2,5
+25,26,19,1,0,6.1,Instagram,1,5.2,5,Complicated,4,9
+26,27,21,0,1,3.8,YouTube,0,6.6,7,Single,1,5
+27,28,20,1,1,4.4,TikTok,1,5.9,6,In Relationship,3,7
+28,29,24,0,2,2.2,LinkedIn,0,7.4,8,Single,0,3
+29,30,19,1,0,5.9,Instagram,1,5.3,5,Complicated,4,8
+30,31,21,0,1,3.6,Facebook,0,6.7,7,Single,1,5
+31,32,20,1,1,4.8,Snapchat,1,5.7,6,In Relationship,3,7
+32,33,18,0,0,5.4,TikTok,1,5.4,5,Complicated,4,8
+33,34,23,1,2,2.6,LinkedIn,0,7.2,8,Single,1,4
+34,35,19,0,1,4.7,Instagram,1,5.8,6,In Relationship,3,7
+35,36,20,1,1,5.6,TikTok,1,5.5,5,Complicated,4,8
+36,37,22,0,2,3.1,Facebook,0,6.8,7,Single,1,5
+37,38,19,1,0,6.2,Instagram,1,5.1,5,In Relationship,4,9
+38,39,21,0,1,3.9,YouTube,0,6.5,7,Complicated,2,6
+39,40,20,1,1,4.5,TikTok,1,5.8,6,Single,3,7
+40,41,24,0,2,2.3,LinkedIn,0,7.3,8,In Relationship,1,4
+41,42,19,1,0,5.8,Instagram,1,5.4,5,Complicated,4,8
+42,43,21,0,1,3.7,Facebook,0,6.6,7,Single,2,5
+43,44,20,1,1,4.6,Snapchat,1,5.7,6,In Relationship,3,7
+44,45,18,0,0,5.5,TikTok,1,5.3,5,Single,4,8
+45,46,23,1,2,2.7,LinkedIn,0,7.1,8,Complicated,1,4
+46,47,19,0,1,4.8,Instagram,1,5.9,6,In Relationship,3,7
+47,48,20,1,1,5.5,TikTok,1,5.6,5,Single,4,8
+48,49,22,0,2,3.3,Facebook,0,6.7,7,In Relationship,2,5
+49,50,19,1,0,6.3,Instagram,1,5.2,5,Complicated,4,9
+50,51,21,0,1,3.8,YouTube,0,6.4,7,Single,2,6
+51,52,20,1,1,4.7,TikTok,1,5.8,6,In Relationship,3,7
+52,53,24,0,2,2.4,LinkedIn,0,7.2,8,Complicated,1,4
+53,54,19,1,0,5.7,Instagram,1,5.5,5,Single,4,8
+54,55,21,0,1,3.6,Facebook,0,6.5,7,In Relationship,2,5
+55,56,20,1,1,4.9,Snapchat,1,5.6,6,Complicated,3,7
+56,57,18,0,0,5.6,TikTok,1,5.2,5,Single,4,8
+57,58,23,1,2,2.8,LinkedIn,0,7.0,8,In Relationship,1,4
+58,59,19,0,1,4.6,Instagram,1,5.9,6,Complicated,3,7
+59,60,20,1,1,5.4,TikTok,1,5.7,5,Single,4,8
+60,61,22,0,2,3.1,Facebook,0,7.1,7,Single,1,5
+61,62,19,1,1,5.6,Instagram,1,5.6,5,In Relationship,3,8
+62,63,20,0,1,4.2,TikTok,1,6.0,6,Complicated,3,7
+63,64,18,1,0,6.1,Snapchat,1,5.2,4,Single,4,9
+64,65,23,0,2,2.3,LinkedIn,0,7.4,8,In Relationship,1,3
+65,66,21,1,1,4.8,Instagram,1,5.8,6,Single,3,7
+66,67,20,0,1,3.9,YouTube,0,6.5,7,Complicated,2,6
+67,68,19,1,0,5.7,TikTok,1,5.4,5,In Relationship,4,8
+68,69,22,0,2,2.8,LinkedIn,0,7.2,8,Single,1,4
+69,70,20,1,1,4.5,Instagram,1,5.9,6,Complicated,3,7
+70,71,18,0,0,5.4,Snapchat,1,5.5,5,Single,4,8
+71,72,21,1,2,3.2,Facebook,0,6.8,7,In Relationship,2,5
+72,73,19,0,1,4.9,TikTok,1,5.7,6,Complicated,3,7
+73,74,20,1,1,5.8,Instagram,1,5.3,5,Single,4,8
+74,75,23,0,2,2.5,LinkedIn,0,7.3,8,In Relationship,1,4
+75,76,21,1,1,4.6,Snapchat,1,5.8,6,Single,3,7
+76,77,19,0,0,5.5,TikTok,1,5.4,5,Complicated,4,8
+77,78,22,1,2,2.9,Facebook,0,7.0,7,In Relationship,2,5
+78,79,20,0,1,4.7,YouTube,1,5.9,6,Single,3,7
+79,80,18,1,0,5.9,Instagram,1,5.2,5,Complicated,4,9
+80,81,21,0,2,3.0,LinkedIn,0,7.1,8,In Relationship,1,4
+81,82,19,1,1,4.8,TikTok,1,5.7,6,Single,3,7
+82,83,20,0,1,3.8,Facebook,0,6.6,7,Complicated,2,6
+83,84,22,1,2,2.7,LinkedIn,0,7.2,8,In Relationship,1,4
+84,85,18,0,0,5.6,Snapchat,1,5.3,5,Single,4,8
+85,86,21,1,1,4.5,Instagram,1,5.8,6,Complicated,3,7
+86,87,19,0,0,5.3,TikTok,1,5.5,5,In Relationship,4,8
+87,88,23,1,2,2.6,LinkedIn,0,7.3,8,Single,1,4
+88,89,20,0,1,4.4,YouTube,1,6.0,6,Complicated,3,7
+89,90,18,1,0,5.8,Instagram,1,5.2,5,Single,4,9
+90,91,22,0,2,2.9,Facebook,0,7.0,7,In Relationship,2,5
+91,92,19,1,1,4.7,TikTok,1,5.8,6,Complicated,3,7
+92,93,21,0,1,3.7,Snapchat,0,6.5,7,Single,2,6
+93,94,20,1,0,5.5,Instagram,1,5.4,5,In Relationship,4,8
+94,95,23,0,2,2.4,LinkedIn,0,7.4,8,Complicated,1,4
+95,96,19,1,1,4.9,TikTok,1,5.7,6,Single,3,7
+96,97,18,0,0,5.7,Snapchat,1,5.3,5,In Relationship,4,8
+97,98,22,1,2,2.8,LinkedIn,0,7.1,8,Complicated,1,4
+98,99,20,0,1,4.6,Instagram,1,5.9,6,Single,3,7
+99,100,21,1,1,5.4,TikTok,1,5.5,5,In Relationship,4,8
+100,101,19,0,0,5.8,YouTube,1,5.2,5,Complicated,4,9
+101,102,23,1,2,2.5,LinkedIn,0,7.3,8,Single,1,4
+102,103,20,0,1,4.7,Facebook,1,5.8,6,In Relationship,3,7
+103,104,18,1,0,5.6,Instagram,1,5.4,5,Single,4,8
+104,105,22,0,2,2.9,LinkedIn,0,7.0,7,Complicated,2,5
+105,106,19,1,1,4.8,TikTok,1,5.7,6,In Relationship,3,7
+106,107,21,0,1,3.8,YouTube,0,6.6,7,Single,2,6
+107,108,20,1,0,5.5,Snapchat,1,5.5,5,Complicated,4,8
+108,109,23,0,2,2.6,LinkedIn,0,7.2,8,In Relationship,1,4
+109,110,19,1,1,4.9,Instagram,1,5.8,6,Single,3,7
+110,111,20,0,1,6.1,Instagram,1,6.2,5,Single,4,8
+111,112,21,1,1,5.8,TikTok,1,5.9,6,In Relationship,3,7
+112,113,19,0,1,4.9,Facebook,0,7.1,7,Single,2,5
+113,114,22,1,2,5.5,Instagram,1,6.0,5,Single,4,8
+114,115,20,0,1,5.2,TikTok,1,6.3,6,In Relationship,3,7
+115,116,19,1,1,4.8,Instagram,0,7.2,8,Single,2,5
+116,117,21,0,2,6.0,Facebook,1,5.8,5,In Relationship,4,8
+117,118,20,1,1,5.7,Instagram,1,6.1,6,Single,3,7
+118,119,22,0,2,4.7,TikTok,0,7.3,7,Single,2,5
+119,120,19,1,1,5.4,Instagram,1,6.2,5,In Relationship,4,8
+120,121,20,0,1,5.9,Facebook,1,5.9,6,Single,3,7
+121,122,21,1,2,4.6,Instagram,0,7.4,8,In Relationship,2,5
+122,123,19,0,1,5.3,TikTok,1,6.3,5,Single,4,8
+123,124,22,1,2,5.8,Instagram,1,5.8,6,In Relationship,3,7
+124,125,20,0,1,4.5,Facebook,0,7.5,7,Single,2,5
+125,126,21,1,2,5.2,Instagram,1,6.4,5,In Relationship,4,8
+126,127,19,0,1,5.7,TikTok,1,5.7,6,Single,3,7
+127,128,20,1,1,4.4,Instagram,0,7.6,8,In Relationship,2,5
+128,129,22,0,2,5.1,Facebook,1,6.5,5,Single,4,8
+129,130,21,1,2,5.6,Instagram,1,5.6,6,In Relationship,3,7
+130,131,19,0,1,4.3,TikTok,0,7.7,7,Single,2,5
+131,132,20,1,1,5.0,Instagram,1,6.6,5,In Relationship,4,8
+132,133,22,0,2,5.5,Facebook,1,5.5,6,Single,3,7
+133,134,21,1,2,4.2,Instagram,0,7.8,8,In Relationship,2,5
+134,135,19,0,1,4.9,TikTok,1,6.7,5,Single,4,8
+135,136,20,1,1,5.4,Instagram,1,5.4,6,In Relationship,3,7
+136,137,22,0,2,4.1,Facebook,0,7.9,7,Single,2,5
+137,138,21,1,2,4.8,Instagram,1,6.8,5,In Relationship,4,8
+138,139,19,0,1,5.3,TikTok,1,5.3,6,Single,3,7
+139,140,20,1,1,4.0,Instagram,0,8.0,8,In Relationship,2,5
+140,141,22,0,2,4.7,Facebook,1,6.9,5,Single,4,8
+141,142,21,1,2,5.2,Instagram,1,5.2,6,In Relationship,3,7
+142,143,19,0,1,3.9,TikTok,0,8.1,7,Single,2,5
+143,144,20,1,1,4.6,Instagram,1,7.0,5,In Relationship,4,8
+144,145,22,0,2,5.1,Facebook,1,5.1,6,Single,3,7
+145,146,21,1,2,3.8,Instagram,0,8.2,8,In Relationship,2,5
+146,147,19,0,1,4.5,TikTok,1,7.1,5,Single,4,8
+147,148,20,1,1,5.0,Instagram,1,5.0,6,In Relationship,3,7
+148,149,22,0,2,3.7,Facebook,0,8.3,7,Single,2,5
+149,150,21,1,2,4.4,Instagram,1,7.2,5,In Relationship,4,8
+150,151,19,0,1,4.9,TikTok,1,4.9,6,Single,3,7
+151,152,20,1,1,3.6,Instagram,0,8.4,8,In Relationship,2,5
+152,153,22,0,2,4.3,Facebook,1,7.3,5,Single,4,8
+153,154,21,1,2,4.8,Instagram,1,4.8,6,In Relationship,3,7
+154,155,19,0,1,3.5,TikTok,0,8.5,7,Single,2,5
+155,156,20,1,1,4.2,Instagram,1,7.4,5,In Relationship,4,8
+156,157,22,0,2,4.7,Facebook,1,4.7,6,Single,3,7
+157,158,21,1,2,3.4,Instagram,0,8.6,8,In Relationship,2,5
+158,159,19,0,1,4.1,TikTok,1,7.5,5,Single,4,8
+159,160,20,1,1,4.6,Instagram,1,4.6,6,In Relationship,3,7
+160,161,19,1,1,5.3,Instagram,1,6.1,5,Single,3,7
+161,162,21,0,2,4.8,Facebook,0,7.2,7,In Relationship,2,6
+162,163,20,1,1,5.5,TikTok,1,5.9,6,Single,4,8
+163,164,22,0,2,4.7,Instagram,1,6.3,5,In Relationship,3,7
+164,165,19,1,1,5.1,Facebook,0,7.0,7,Single,2,5
+165,166,21,0,2,5.4,TikTok,1,6.0,6,In Relationship,4,8
+166,167,20,1,1,4.9,Instagram,1,6.4,5,Single,3,7
+167,168,22,0,2,5.2,Facebook,0,7.1,7,In Relationship,2,6
+168,169,19,1,1,5.6,TikTok,1,5.8,6,Single,4,8
+169,170,21,0,2,4.6,Instagram,1,6.5,5,In Relationship,3,7
+170,171,20,1,1,5.0,Facebook,0,7.3,7,Single,2,5
+171,172,22,0,2,5.3,TikTok,1,5.7,6,In Relationship,4,8
+172,173,19,1,1,4.8,Instagram,1,6.6,5,Single,3,7
+173,174,21,0,2,5.1,Facebook,0,7.4,7,In Relationship,2,6
+174,175,20,1,1,5.7,TikTok,1,5.6,6,Single,4,8
+175,176,22,0,2,4.5,Instagram,1,6.7,5,In Relationship,3,7
+176,177,19,1,1,4.9,Facebook,0,7.5,7,Single,2,5
+177,178,21,0,2,5.2,TikTok,1,5.5,6,In Relationship,4,8
+178,179,20,1,1,4.7,Instagram,1,6.8,5,Single,3,7
+179,180,22,0,2,5.0,Facebook,0,7.6,7,In Relationship,2,6
+180,181,19,1,1,5.8,TikTok,1,5.4,6,Single,4,8
+181,182,21,0,2,4.4,Instagram,1,6.9,5,In Relationship,3,7
+182,183,20,1,1,4.8,Facebook,0,7.7,7,Single,2,5
+183,184,22,0,2,5.1,TikTok,1,5.3,6,In Relationship,4,8
+184,185,19,1,1,4.6,Instagram,1,7.0,5,Single,3,7
+185,186,21,0,2,4.9,Facebook,0,7.8,7,In Relationship,2,6
+186,187,20,1,1,5.9,TikTok,1,5.2,6,Single,4,8
+187,188,22,0,2,4.3,Instagram,1,7.1,5,In Relationship,3,7
+188,189,19,1,1,4.7,Facebook,0,7.9,7,Single,2,5
+189,190,21,0,2,5.0,TikTok,1,5.1,6,In Relationship,4,8
+190,191,20,1,1,4.5,Instagram,1,7.2,5,Single,3,7
+191,192,22,0,2,4.8,Facebook,0,8.0,7,In Relationship,2,6
+192,193,19,1,1,6.0,TikTok,1,5.0,6,Single,4,8
+193,194,21,0,2,4.2,Instagram,1,7.3,5,In Relationship,3,7
+194,195,20,1,1,4.6,Facebook,0,8.1,7,Single,2,5
+195,196,22,0,2,4.9,TikTok,1,4.9,6,In Relationship,4,8
+196,197,19,1,1,4.4,Instagram,1,7.4,5,Single,3,7
+197,198,21,0,2,4.7,Facebook,0,8.2,7,In Relationship,2,6
+198,199,20,1,1,6.1,TikTok,1,4.8,6,Single,4,8
+199,200,22,0,2,4.1,Instagram,1,7.5,5,In Relationship,3,7
+200,201,19,1,1,4.5,Facebook,0,8.3,7,Single,2,5
+201,202,21,0,2,4.8,TikTok,1,4.7,6,In Relationship,4,8
+202,203,20,1,1,4.3,Instagram,1,7.6,5,Single,3,7
+203,204,22,0,2,4.6,Facebook,0,8.4,7,In Relationship,2,6
+204,205,19,1,1,6.2,TikTok,1,4.6,6,Single,4,8
+205,206,21,0,2,4.0,Instagram,1,7.7,5,In Relationship,3,7
+206,207,20,1,1,4.4,Facebook,0,8.5,7,Single,2,5
+207,208,22,0,2,4.7,TikTok,1,4.5,6,In Relationship,4,8
+208,209,19,1,1,4.2,Instagram,1,7.8,5,Single,3,7
+209,210,21,0,2,4.5,Facebook,0,8.6,7,In Relationship,2,6
+210,211,20,1,1,6.3,TikTok,1,4.4,6,Single,4,8
+211,212,22,0,2,3.9,Instagram,1,7.9,5,In Relationship,3,7
+212,213,19,1,1,4.3,Facebook,0,8.7,7,Single,2,5
+213,214,21,0,2,4.6,TikTok,1,4.3,6,In Relationship,4,8
+214,215,20,1,1,4.1,Instagram,1,8.0,5,Single,3,7
+215,216,22,0,2,4.4,Facebook,0,8.8,7,In Relationship,2,6
+216,217,19,1,1,6.4,TikTok,1,4.2,6,Single,4,8
+217,218,21,0,2,3.8,Instagram,1,8.1,5,In Relationship,3,7
+218,219,20,1,1,4.2,Facebook,0,8.9,7,Single,2,5
+219,220,22,0,2,4.5,TikTok,1,4.1,6,In Relationship,4,8
+220,221,19,1,1,6.5,Instagram,1,6.0,5,Single,4,9
+221,222,21,0,2,5.8,TikTok,1,6.5,6,In Relationship,3,7
+222,223,20,1,1,4.5,Instagram,0,7.5,8,Single,2,5
+223,224,22,0,2,4.2,Facebook,0,7.8,7,In Relationship,2,4
+224,225,19,1,1,3.8,LINE,0,7.9,8,Single,1,3
+225,226,21,0,2,5.5,Instagram,1,6.8,6,Single,3,7
+226,227,20,1,1,5.2,KakaoTalk,1,6.5,6,In Relationship,3,6
+227,228,22,0,2,4.8,VKontakte,0,7.2,7,Single,2,5
+228,229,19,1,1,7.0,TikTok,1,5.8,4,In Relationship,4,9
+229,230,21,0,2,5.5,Instagram,1,6.7,6,Single,3,7
+230,231,20,1,1,4.7,Facebook,0,7.4,7,In Relationship,2,5
+231,232,22,0,2,4.0,Instagram,0,7.9,8,Single,1,4
+232,233,19,1,1,3.5,LINE,0,8.0,8,Single,1,3
+233,234,21,0,2,5.7,TikTok,1,6.5,5,In Relationship,3,8
+234,235,20,1,1,5.0,KakaoTalk,1,6.8,6,Single,3,6
+235,236,22,0,2,4.5,VKontakte,0,7.4,7,In Relationship,2,5
+236,237,19,1,1,6.8,Instagram,1,5.9,4,Single,4,9
+237,238,21,0,2,5.6,Facebook,1,6.6,6,In Relationship,3,7
+238,239,20,1,1,4.6,Instagram,0,7.3,7,Single,2,5
+239,240,22,0,2,4.1,Facebook,0,7.7,8,In Relationship,2,4
+240,241,19,1,1,3.7,LINE,0,7.8,8,Single,1,3
+241,242,21,0,2,5.4,Instagram,1,6.7,5,Single,3,7
+242,243,20,1,1,5.1,KakaoTalk,1,6.6,6,In Relationship,3,6
+243,244,22,0,2,4.7,VKontakte,0,7.3,7,Single,2,5
+244,245,19,1,1,6.9,TikTok,1,5.7,4,In Relationship,4,9
+245,246,21,0,2,5.7,Instagram,1,6.4,6,Single,3,7
+246,247,20,1,1,4.8,Facebook,0,7.2,7,In Relationship,2,5
+247,248,22,0,2,3.9,Instagram,0,7.8,8,Single,1,4
+248,249,19,1,1,3.6,LINE,0,8.1,8,Single,1,3
+249,250,21,0,2,5.6,TikTok,1,6.6,5,In Relationship,3,8
+250,251,20,1,1,4.9,KakaoTalk,1,6.9,6,Single,3,6
+251,252,22,0,2,4.6,VKontakte,0,7.5,7,In Relationship,2,5
+252,253,19,1,1,6.7,Instagram,1,5.8,4,Single,4,9
+253,254,21,0,2,5.4,Facebook,1,6.5,6,In Relationship,3,7
+254,255,20,1,1,4.4,Instagram,0,7.4,7,Single,2,5
+255,256,22,0,2,4.0,Facebook,0,7.6,8,In Relationship,2,4
+256,257,19,1,1,3.4,LINE,0,8.2,8,Single,1,3
+257,258,21,0,2,5.3,Instagram,1,6.8,5,Single,3,7
+258,259,20,1,1,5.0,KakaoTalk,1,6.7,6,In Relationship,3,6
+259,260,22,0,2,4.4,VKontakte,0,7.6,7,Single,2,5
+260,261,19,1,1,6.6,TikTok,1,5.6,4,In Relationship,4,9
+261,262,21,0,2,5.3,Instagram,1,6.3,6,Single,3,7
+262,263,20,1,1,4.3,Facebook,0,7.5,7,In Relationship,2,5
+263,264,22,0,2,3.8,Instagram,0,7.7,8,Single,1,4
+264,265,19,1,1,3.3,LINE,0,8.3,8,Single,1,3
+265,266,21,0,2,5.2,TikTok,1,6.9,5,In Relationship,3,8
+266,267,20,1,1,4.8,KakaoTalk,1,7.0,6,Single,3,6
+267,268,22,0,2,4.3,VKontakte,0,7.7,7,In Relationship,2,5
+268,269,19,1,1,6.4,Instagram,1,5.7,4,Single,4,9
+269,270,21,0,2,5.2,Facebook,1,6.4,6,In Relationship,3,7
+270,271,20,1,1,4.5,Instagram,0,7.3,7,Single,2,5
+271,272,22,0,2,3.7,Facebook,0,7.8,8,In Relationship,1,4
+272,273,19,1,1,3.2,LINE,0,8.4,8,Single,1,3
+273,274,21,0,2,5.4,Instagram,1,6.7,5,Single,3,7
+274,275,20,1,1,4.7,KakaoTalk,1,7.1,6,In Relationship,3,6
+275,276,22,0,2,4.2,VKontakte,0,7.8,7,Single,2,5
+276,277,19,1,1,6.6,TikTok,1,5.5,4,In Relationship,4,9
+277,278,21,0,2,5.1,Instagram,1,6.5,6,Single,3,7
+278,279,20,1,1,4.4,Facebook,0,7.4,7,In Relationship,2,5
+279,280,22,0,2,3.6,Instagram,0,7.9,8,Single,1,4
+280,281,19,1,1,3.1,LINE,0,8.5,8,Single,1,3
+281,282,21,0,2,5.3,TikTok,1,6.8,5,In Relationship,3,8
+282,283,20,1,1,4.6,KakaoTalk,1,7.2,6,Single,3,6
+283,284,22,0,2,4.1,VKontakte,0,7.9,7,In Relationship,2,5
+284,285,19,1,1,6.7,Instagram,1,5.4,4,Single,4,9
+285,286,21,0,2,5.0,Facebook,1,6.6,6,In Relationship,3,7
+286,287,20,1,1,4.3,Instagram,0,7.5,7,Single,2,5
+287,288,22,0,2,3.5,Facebook,0,8.0,8,In Relationship,1,4
+288,289,19,1,1,3.0,LINE,0,8.6,8,Single,1,3
+289,290,21,0,2,5.2,Instagram,1,6.9,5,Single,3,7
+290,291,20,1,1,4.5,KakaoTalk,1,7.3,6,In Relationship,3,6
+291,292,22,0,2,4.0,VKontakte,0,8.0,7,Single,2,5
+292,293,19,1,1,6.8,TikTok,1,5.3,4,In Relationship,4,9
+293,294,21,0,2,4.9,Instagram,1,6.7,6,Single,3,7
+294,295,20,1,1,4.2,Facebook,0,7.6,7,In Relationship,2,5
+295,296,22,0,2,3.4,Instagram,0,8.1,8,Single,1,4
+296,297,19,1,1,2.9,LINE,0,8.7,8,Single,1,3
+297,298,21,0,2,5.1,TikTok,1,7.0,5,In Relationship,3,8
+298,299,20,1,1,4.4,KakaoTalk,1,7.4,6,Single,3,6
+299,300,22,0,2,3.9,VKontakte,0,8.1,7,In Relationship,2,5
+300,301,19,1,1,6.9,Instagram,1,5.2,4,Single,4,9
+301,302,21,0,2,4.8,Facebook,1,6.8,6,In Relationship,3,7
+302,303,20,1,1,4.1,Instagram,0,7.7,7,Single,2,5
+303,304,22,0,2,3.3,Facebook,0,8.2,8,In Relationship,1,4
+304,305,19,1,1,2.8,LINE,0,8.8,8,Single,1,3
+305,306,21,0,2,5.0,Instagram,1,7.1,5,Single,3,7
+306,307,20,1,1,4.3,KakaoTalk,1,7.5,6,In Relationship,3,6
+307,308,22,0,2,3.8,VKontakte,0,8.2,7,Single,2,5
+308,309,19,1,1,7.0,TikTok,1,5.1,4,In Relationship,4,9
+309,310,21,0,2,4.7,Instagram,1,6.9,6,Single,3,7
+310,311,20,1,1,4.0,Facebook,0,7.8,7,In Relationship,2,5
+311,312,22,0,2,3.2,Instagram,0,8.3,8,Single,1,4
+312,313,19,1,1,2.7,LINE,0,8.9,8,Single,1,3
+313,314,21,0,2,4.9,TikTok,1,7.2,5,In Relationship,3,8
+314,315,20,1,1,4.2,KakaoTalk,1,7.6,6,Single,3,6
+315,316,22,0,2,3.7,VKontakte,0,8.3,7,In Relationship,2,5
+316,317,19,1,1,7.1,Instagram,1,5.0,4,Single,4,9
+317,318,21,0,2,4.6,Facebook,1,7.0,6,In Relationship,3,7
+318,319,20,1,1,3.9,Instagram,0,7.9,7,Single,2,5
+319,320,22,0,2,3.1,Facebook,0,8.4,8,In Relationship,1,4
+320,321,19,1,1,5.2,Instagram,1,6.8,6,Single,3,7
+321,322,21,0,2,4.1,Facebook,0,7.8,8,In Relationship,2,4
+322,323,20,1,1,5.0,Instagram,1,7.0,7,Single,3,6
+323,324,22,0,2,5.8,WhatsApp,1,6.5,5,In Relationship,4,8
+324,325,19,1,1,4.0,Instagram,0,7.9,8,Single,2,4
+325,326,21,0,2,5.5,Instagram,1,6.7,6,Single,3,7
+326,327,20,1,1,6.8,TikTok,1,5.5,5,In Relationship,4,9
+327,328,22,0,2,5.6,WhatsApp,1,6.6,6,Single,3,7
+328,329,19,1,1,4.5,Instagram,0,7.5,7,In Relationship,2,5
+329,330,21,0,2,5.3,Instagram,1,6.9,6,Single,3,7
+330,331,20,1,1,5.1,TikTok,1,6.7,6,Single,3,7
+331,332,22,0,2,3.9,Facebook,0,7.9,8,In Relationship,2,4
+332,333,19,1,1,4.8,Instagram,1,7.1,7,Single,3,6
+333,334,21,0,2,5.9,WhatsApp,1,6.4,5,In Relationship,4,8
+334,335,20,1,1,3.8,Instagram,0,8.0,8,Single,2,4
+335,336,22,0,2,5.4,TikTok,1,6.8,6,Single,3,7
+336,337,19,1,1,6.9,Instagram,1,5.4,5,In Relationship,4,9
+337,338,21,0,2,5.7,WhatsApp,1,6.5,6,Single,3,7
+338,339,20,1,1,4.4,Instagram,0,7.6,7,In Relationship,2,5
+339,340,22,0,2,5.2,TikTok,1,7.0,6,Single,3,7
+340,341,19,1,1,5.0,Instagram,1,6.9,6,Single,3,7
+341,342,21,0,2,3.8,Facebook,0,8.0,8,In Relationship,2,4
+342,343,20,1,1,4.7,TikTok,1,7.2,7,Single,3,6
+343,344,22,0,2,6.0,WhatsApp,1,6.3,5,In Relationship,4,8
+344,345,19,1,1,3.7,Instagram,0,8.1,8,Single,2,4
+345,346,21,0,2,5.3,Instagram,1,6.9,6,Single,3,7
+346,347,20,1,1,7.0,TikTok,1,5.3,5,In Relationship,4,9
+347,348,22,0,2,5.8,WhatsApp,1,6.4,6,Single,3,7
+348,349,19,1,1,4.3,Instagram,0,7.7,7,In Relationship,2,5
+349,350,21,0,2,5.1,Instagram,1,7.1,6,Single,3,7
+350,351,20,1,1,4.9,TikTok,1,7.0,6,Single,3,7
+351,352,22,0,2,3.7,Facebook,0,8.1,8,In Relationship,2,4
+352,353,19,1,1,4.6,Instagram,1,7.3,7,Single,3,6
+353,354,21,0,2,6.1,WhatsApp,1,6.2,5,In Relationship,4,8
+354,355,20,1,1,3.6,Instagram,0,8.2,8,Single,2,4
+355,356,22,0,2,5.2,TikTok,1,7.0,6,Single,3,7
+356,357,19,1,1,7.1,Instagram,1,5.2,5,In Relationship,4,9
+357,358,21,0,2,5.9,WhatsApp,1,6.3,6,Single,3,7
+358,359,20,1,1,4.2,Instagram,0,7.8,7,In Relationship,2,5
+359,360,22,0,2,5.0,TikTok,1,7.2,6,Single,3,7
+360,361,19,1,1,4.8,Instagram,1,7.1,6,Single,3,7
+361,362,21,0,2,3.6,Facebook,0,8.2,8,In Relationship,2,4
+362,363,20,1,1,4.5,TikTok,1,7.4,7,Single,3,6
+363,364,22,0,2,6.2,WhatsApp,1,6.1,5,In Relationship,4,8
+364,365,19,1,1,3.5,Instagram,0,8.3,8,Single,2,4
+365,366,21,0,2,5.1,Instagram,1,7.1,6,Single,3,7
+366,367,20,1,1,7.2,TikTok,1,5.1,5,In Relationship,4,9
+367,368,22,0,2,6.0,WhatsApp,1,6.2,6,Single,3,7
+368,369,19,1,1,4.1,Instagram,0,7.9,7,In Relationship,2,5
+369,370,21,0,2,4.9,Instagram,1,7.3,6,Single,3,7
+370,371,20,1,1,4.7,TikTok,1,7.2,6,Single,3,7
+371,372,22,0,2,3.5,Facebook,0,8.3,8,In Relationship,2,4
+372,373,19,1,1,4.4,Instagram,1,7.5,7,Single,3,6
+373,374,21,0,2,6.3,WhatsApp,1,6.0,5,In Relationship,4,8
+374,375,20,1,1,3.4,Instagram,0,8.4,8,Single,2,4
+375,376,22,0,2,5.0,TikTok,1,7.2,6,Single,3,7
+376,377,19,1,1,7.3,Instagram,1,5.0,5,In Relationship,4,9
+377,378,21,0,2,6.1,WhatsApp,1,6.1,6,Single,3,7
+378,379,20,1,1,4.0,Instagram,0,8.0,7,In Relationship,2,5
+379,380,22,0,2,4.8,TikTok,1,7.4,6,Single,3,7
+380,381,19,1,1,4.6,Instagram,1,7.3,6,Single,3,7
+381,382,21,0,2,3.4,Facebook,0,8.4,8,In Relationship,2,4
+382,383,20,1,1,4.3,TikTok,1,7.6,7,Single,3,6
+383,384,22,0,2,6.4,WhatsApp,1,5.9,5,In Relationship,4,8
+384,385,19,1,1,3.3,Instagram,0,8.5,8,Single,2,4
+385,386,21,0,2,4.9,Instagram,1,7.3,6,Single,3,7
+386,387,20,1,1,7.4,TikTok,1,4.9,5,In Relationship,4,9
+387,388,22,0,2,6.2,WhatsApp,1,6.0,6,Single,3,7
+388,389,19,1,1,3.9,Instagram,0,8.1,7,In Relationship,2,5
+389,390,21,0,2,4.7,Instagram,1,7.5,6,Single,3,7
+390,391,20,1,1,4.5,TikTok,1,7.4,6,Single,3,7
+391,392,22,0,2,3.3,Facebook,0,8.5,8,In Relationship,2,4
+392,393,19,1,1,4.2,Instagram,1,7.7,7,Single,3,6
+393,394,21,0,2,6.5,WhatsApp,1,5.8,5,In Relationship,4,8
+394,395,20,1,1,3.2,Instagram,0,8.6,8,Single,2,4
+395,396,22,0,2,4.8,TikTok,1,7.4,6,Single,3,7
+396,397,19,1,1,7.5,Instagram,1,4.8,5,In Relationship,4,9
+397,398,21,0,2,6.3,WhatsApp,1,5.9,6,Single,3,7
+398,399,20,1,1,3.8,Instagram,0,8.2,7,In Relationship,2,5
+399,400,22,0,2,4.6,TikTok,1,7.6,6,Single,3,7
+400,401,19,1,1,4.4,Instagram,1,7.5,6,Single,3,7
+401,402,21,0,2,3.2,Facebook,0,8.6,8,In Relationship,2,4
+402,403,20,1,1,4.1,TikTok,1,7.8,7,Single,3,6
+403,404,22,0,2,6.6,WhatsApp,1,5.7,5,In Relationship,4,8
+404,405,19,1,1,3.1,Instagram,0,8.7,8,Single,2,4
+405,406,21,0,2,4.7,Instagram,1,7.5,6,Single,3,7
+406,407,20,1,1,7.6,TikTok,1,4.7,5,In Relationship,4,9
+407,408,22,0,2,6.4,WhatsApp,1,5.8,6,Single,3,7
+408,409,19,1,1,3.7,Instagram,0,8.3,7,In Relationship,2,5
+409,410,21,0,2,4.5,Instagram,1,7.7,6,Single,3,7
+410,411,20,1,1,4.3,TikTok,1,7.6,6,Single,3,7
+411,412,22,0,2,3.1,Facebook,0,8.7,8,In Relationship,2,4
+412,413,19,1,1,4.0,Instagram,1,7.9,7,Single,3,6
+413,414,21,0,2,6.7,WhatsApp,1,5.6,5,In Relationship,4,8
+414,415,20,1,1,3.0,Instagram,0,8.8,8,Single,2,4
+415,416,22,0,2,4.6,TikTok,1,7.6,6,Single,3,7
+416,417,19,1,1,7.7,Instagram,1,4.6,5,In Relationship,4,9
+417,418,21,0,2,6.5,WhatsApp,1,5.7,6,Single,3,7
+418,419,20,1,1,3.6,Instagram,0,8.4,7,In Relationship,2,5
+419,420,22,0,2,4.4,TikTok,1,7.8,6,Single,3,7
+420,421,19,1,1,4.2,Instagram,1,7.7,6,Single,3,7
+421,422,21,0,2,3.0,Facebook,0,8.8,8,In Relationship,2,4
+422,423,20,1,1,3.9,TikTok,1,8.0,7,Single,3,6
+423,424,22,0,2,6.8,WhatsApp,1,5.5,5,In Relationship,4,8
+424,425,19,1,1,2.9,Instagram,0,8.9,8,Single,2,4
+425,426,21,0,2,4.5,Instagram,1,7.7,6,Single,3,7
+426,427,20,1,1,7.8,TikTok,1,4.5,5,In Relationship,4,9
+427,428,22,0,2,6.6,WhatsApp,1,5.6,6,Single,3,7
+428,429,19,1,1,3.5,Instagram,0,8.5,7,In Relationship,2,5
+429,430,21,0,2,4.3,Instagram,1,7.9,6,Single,3,7
+430,431,20,1,1,4.1,TikTok,1,7.8,6,Single,3,7
+431,432,22,0,2,2.9,Facebook,0,8.9,8,In Relationship,2,4
+432,433,19,1,1,3.8,Instagram,1,8.1,7,Single,3,6
+433,434,21,0,2,6.9,WhatsApp,1,5.4,5,In Relationship,4,8
+434,435,20,1,1,2.8,Instagram,0,9.0,8,Single,2,4
+435,436,22,0,2,4.4,TikTok,1,7.8,6,Single,3,7
+436,437,19,1,1,7.9,Instagram,1,4.4,5,In Relationship,4,9
+437,438,21,0,2,6.7,WhatsApp,1,5.5,6,Single,3,7
+438,439,20,1,1,3.4,Instagram,0,8.6,7,In Relationship,2,5
+439,440,22,0,2,4.2,TikTok,1,8.0,6,Single,3,7
+440,441,19,1,1,4.0,Instagram,1,7.9,6,Single,3,7
+441,442,21,0,2,2.8,Facebook,0,9.0,8,In Relationship,2,4
+442,443,20,1,1,3.7,TikTok,1,8.2,7,Single,3,6
+443,444,22,0,2,7.0,WhatsApp,1,5.3,5,In Relationship,4,8
+444,445,19,1,1,2.7,Instagram,0,9.1,8,Single,2,4
+445,446,21,0,2,4.3,Instagram,1,7.9,6,Single,3,7
+446,447,20,1,1,8.0,TikTok,1,4.3,5,In Relationship,4,9
+447,448,22,0,2,6.8,WhatsApp,1,5.4,6,Single,3,7
+448,449,19,1,1,3.3,Instagram,0,8.7,7,In Relationship,2,5
+449,450,21,0,2,4.1,Instagram,1,8.1,6,Single,3,7
+450,451,20,1,1,3.9,TikTok,1,8.0,6,Single,3,7
+451,452,22,0,2,2.7,Facebook,0,9.1,8,In Relationship,2,4
+452,453,19,1,1,3.6,Instagram,1,8.3,7,Single,3,6
+453,454,21,0,2,7.1,WhatsApp,1,5.2,5,In Relationship,4,8
+454,455,20,1,1,2.6,Instagram,0,9.2,8,Single,2,4
+455,456,22,0,2,4.2,TikTok,1,8.0,6,Single,3,7
+456,457,19,1,1,8.1,Instagram,1,4.2,5,In Relationship,4,9
+457,458,21,0,2,6.9,WhatsApp,1,5.3,6,Single,3,7
+458,459,20,1,1,3.2,Instagram,0,8.8,7,In Relationship,2,5
+459,460,22,0,2,4.0,TikTok,1,8.2,6,Single,3,7
+460,461,19,1,1,3.8,Instagram,1,8.1,6,Single,3,7
+461,462,21,0,2,2.6,Facebook,0,9.2,8,In Relationship,2,4
+462,463,20,1,1,3.5,TikTok,1,8.4,7,Single,3,6
+463,464,22,0,2,7.2,WhatsApp,1,5.1,5,In Relationship,4,8
+464,465,19,1,1,2.5,Instagram,0,9.3,8,Single,2,4
+465,466,21,0,2,4.1,Instagram,1,8.1,6,Single,3,7
+466,467,20,1,1,8.2,TikTok,1,4.1,5,In Relationship,4,9
+467,468,22,0,2,7.0,WhatsApp,1,5.2,6,Single,3,7
+468,469,19,1,1,3.1,Instagram,0,8.9,7,In Relationship,2,5
+469,470,21,0,2,3.9,Instagram,1,8.3,6,Single,3,7
+470,471,20,1,1,3.7,TikTok,1,8.2,6,Single,3,7
+471,472,22,0,2,2.5,Facebook,0,9.3,8,In Relationship,2,4
+472,473,19,1,1,3.4,Instagram,1,8.5,7,Single,3,6
+473,474,21,0,2,7.3,WhatsApp,1,5.0,5,In Relationship,4,8
+474,475,20,1,1,2.4,Instagram,0,9.4,8,Single,2,4
+475,476,22,0,2,4.0,TikTok,1,8.2,6,Single,3,7
+476,477,19,1,1,8.3,Instagram,1,4.0,5,In Relationship,4,9
+477,478,21,0,2,7.1,WhatsApp,1,5.1,6,Single,3,7
+478,479,20,1,1,3.0,Instagram,0,9.0,7,In Relationship,2,5
+479,480,22,0,2,3.8,TikTok,1,8.4,6,Single,3,7
+480,481,19,1,1,3.6,Instagram,1,8.3,6,Single,3,7
+481,482,21,0,2,2.4,Facebook,0,9.4,8,In Relationship,2,4
+482,483,20,1,1,3.3,TikTok,1,8.6,7,Single,3,6
+483,484,22,0,2,7.4,WhatsApp,1,4.9,5,In Relationship,4,8
+484,485,19,1,1,2.3,Instagram,0,9.5,8,Single,2,4
+485,486,21,0,2,3.9,Instagram,1,8.3,6,Single,3,7
+486,487,20,1,1,8.4,TikTok,1,3.9,5,In Relationship,4,9
+487,488,22,0,2,7.2,WhatsApp,1,5.0,6,Single,3,7
+488,489,19,1,1,2.9,Instagram,0,9.1,7,In Relationship,2,5
+489,490,21,0,2,3.7,Instagram,1,8.5,6,Single,3,7
+490,491,20,1,1,3.5,TikTok,1,8.4,6,Single,3,7
+491,492,22,0,2,2.3,Facebook,0,9.5,8,In Relationship,2,4
+492,493,19,1,1,3.2,Instagram,1,8.7,7,Single,3,6
+493,494,21,0,2,7.5,WhatsApp,1,4.8,5,In Relationship,4,8
+494,495,20,1,1,2.2,Instagram,0,9.6,8,Single,2,4
+495,496,22,0,2,3.8,TikTok,1,8.4,6,Single,3,7
+496,497,19,1,1,8.5,Instagram,1,3.8,5,In Relationship,4,9
+497,498,21,0,2,7.3,WhatsApp,1,4.9,6,Single,3,7
+498,499,20,1,1,2.8,Instagram,0,9.2,7,In Relationship,2,5
+499,500,22,0,2,3.6,TikTok,1,8.6,6,Single,3,7
+500,501,19,1,1,6.2,WhatsApp,1,6.3,6,Single,3,7
+501,502,21,0,2,4.5,WeChat,0,7.8,7,In Relationship,2,5
+502,503,20,1,1,3.8,Instagram,0,8.2,8,Single,2,4
+503,504,22,0,2,4.7,Instagram,1,7.5,7,In Relationship,3,6
+504,505,19,1,1,5.1,TikTok,1,7.0,6,Single,3,7
+505,506,21,0,2,5.5,WhatsApp,1,6.8,6,Single,3,7
+506,507,20,1,1,6.5,Instagram,1,6.5,5,In Relationship,4,8
+507,508,22,0,2,4.2,Facebook,0,7.9,7,Single,2,5
+508,509,19,1,1,6.8,WhatsApp,1,6.0,5,In Relationship,4,8
+509,510,21,0,2,4.8,Instagram,1,7.4,7,Single,3,6
+510,511,20,1,1,6.1,Instagram,1,6.4,6,Single,3,7
+511,512,22,0,2,4.4,WeChat,0,7.9,7,In Relationship,2,5
+512,513,19,1,1,3.7,TikTok,0,8.3,8,Single,2,4
+513,514,21,0,2,4.6,Instagram,1,7.6,7,In Relationship,3,6
+514,515,20,1,1,5.2,TikTok,1,6.9,6,Single,3,7
+515,516,22,0,2,5.6,WhatsApp,1,6.7,6,Single,3,7
+516,517,19,1,1,6.6,Instagram,1,6.4,5,In Relationship,4,8
+517,518,21,0,2,4.1,Facebook,0,8.0,7,Single,2,5
+518,519,20,1,1,6.9,WhatsApp,1,5.9,5,In Relationship,4,8
+519,520,22,0,2,4.7,TikTok,1,7.5,7,Single,3,6
+520,521,19,1,1,6.0,WhatsApp,1,6.5,6,Single,3,7
+521,522,21,0,2,4.3,WeChat,0,8.0,7,In Relationship,2,5
+522,523,20,1,1,3.6,Instagram,0,8.4,8,Single,2,4
+523,524,22,0,2,4.5,Facebook,1,7.7,7,In Relationship,3,6
+524,525,19,1,1,5.3,TikTok,1,6.8,6,Single,3,7
+525,526,21,0,2,5.7,WhatsApp,1,6.6,6,Single,3,7
+526,527,20,1,1,6.7,Instagram,1,6.3,5,In Relationship,4,8
+527,528,22,0,2,4.0,Facebook,0,8.1,7,Single,2,5
+528,529,19,1,1,7.0,WhatsApp,1,5.8,5,In Relationship,4,8
+529,530,21,0,2,4.6,Instagram,1,7.6,7,Single,3,6
+530,531,20,1,1,5.9,TikTok,1,6.6,6,Single,3,7
+531,532,22,0,2,4.2,WeChat,0,8.1,7,In Relationship,2,5
+532,533,19,1,1,3.5,Instagram,0,8.5,8,Single,2,4
+533,534,21,0,2,4.4,Facebook,1,7.8,7,In Relationship,3,6
+534,535,20,1,1,5.4,TikTok,1,6.7,6,Single,3,7
+535,536,22,0,2,5.8,WhatsApp,1,6.5,6,Single,3,7
+536,537,19,1,1,6.8,Instagram,1,6.2,5,In Relationship,4,8
+537,538,21,0,2,3.9,Facebook,0,8.2,7,Single,2,5
+538,539,20,1,1,7.1,WhatsApp,1,5.7,5,In Relationship,4,8
+539,540,22,0,2,4.5,TikTok,1,7.7,7,Single,3,6
+540,541,19,1,1,5.8,WhatsApp,1,6.7,6,Single,3,7
+541,542,21,0,2,4.1,WeChat,0,8.2,7,In Relationship,2,5
+542,543,20,1,1,3.4,Instagram,0,8.6,8,Single,2,4
+543,544,22,0,2,4.3,Instagram,1,7.9,7,In Relationship,3,6
+544,545,19,1,1,5.5,TikTok,1,6.6,6,Single,3,7
+545,546,21,0,2,5.9,WhatsApp,1,6.4,6,Single,3,7
+546,547,20,1,1,6.9,Instagram,1,6.1,5,In Relationship,4,8
+547,548,22,0,2,3.8,Facebook,0,8.3,7,Single,2,5
+548,549,19,1,1,7.2,WhatsApp,1,5.6,5,In Relationship,4,8
+549,550,21,0,2,4.4,Instagram,1,7.8,7,Single,3,6
+550,551,20,1,1,5.7,TikTok,1,6.8,6,Single,3,7
+551,552,22,0,2,4.0,WeChat,0,8.3,7,In Relationship,2,5
+552,553,19,1,1,3.3,Instagram,0,8.7,8,Single,2,4
+553,554,21,0,2,4.2,Facebook,1,8.0,7,In Relationship,3,6
+554,555,20,1,1,5.6,TikTok,1,6.5,6,Single,3,7
+555,556,22,0,2,6.0,WhatsApp,1,6.3,6,Single,3,7
+556,557,19,1,1,7.0,Instagram,1,6.0,5,In Relationship,4,8
+557,558,21,0,2,3.7,Facebook,0,8.4,7,Single,2,5
+558,559,20,1,1,7.3,WhatsApp,1,5.5,5,In Relationship,4,8
+559,560,22,0,2,4.3,TikTok,1,7.9,7,Single,3,6
+560,561,19,1,1,5.6,WhatsApp,1,6.9,6,Single,3,7
+561,562,21,0,2,3.9,WeChat,0,8.4,7,In Relationship,2,5
+562,563,20,1,1,3.2,Instagram,0,8.8,8,Single,2,4
+563,564,22,0,2,4.1,Instagram,1,8.1,7,In Relationship,3,6
+564,565,19,1,1,5.7,TikTok,1,6.4,6,Single,3,7
+565,566,21,0,2,6.1,WhatsApp,1,6.2,6,Single,3,7
+566,567,20,1,1,7.1,Instagram,1,5.9,5,In Relationship,4,8
+567,568,22,0,2,3.6,Facebook,0,8.5,7,Single,2,5
+568,569,19,1,1,7.4,WhatsApp,1,5.4,5,In Relationship,4,8
+569,570,21,0,2,4.2,Instagram,1,8.0,7,Single,3,6
+570,571,20,1,1,6.1,Instagram,1,7.2,5,Single,4,7
+571,572,23,0,2,3.8,Twitter,0,7.8,8,In Relationship,2,4
+572,573,19,1,1,5.5,TikTok,1,6.8,6,Single,4,8
+573,574,22,0,2,7.2,Facebook,1,5.9,4,Single,5,9
+574,575,21,1,1,4.2,Instagram,0,7.5,7,In Relationship,2,5
+575,576,24,0,2,6.8,TikTok,1,6.2,5,Single,4,8
+576,577,20,1,1,5.9,Instagram,1,6.7,6,In Relationship,3,7
+577,578,22,0,2,6.5,Facebook,1,6.1,5,Single,4,8
+578,579,19,1,1,4.7,Twitter,0,7.4,7,Single,2,5
+579,580,23,0,2,5.2,Instagram,1,7.0,6,In Relationship,3,6
+580,581,21,1,1,6.3,TikTok,1,6.4,5,Single,4,8
+581,582,24,0,2,4.9,Facebook,0,7.3,7,In Relationship,2,5
+582,583,20,1,1,6.7,Instagram,1,6.0,5,Single,4,8
+583,584,22,0,2,5.8,WeChat,1,6.5,6,In Relationship,3,7
+584,585,19,1,1,4.5,Twitter,0,7.6,8,Single,2,4
+585,586,23,0,2,6.4,Facebook,1,6.3,5,Single,4,8
+586,587,21,1,1,4.1,Instagram,0,7.7,7,In Relationship,2,5
+587,588,24,0,2,6.6,TikTok,1,6.2,5,Single,4,8
+588,589,20,1,1,4.4,Instagram,0,7.4,7,In Relationship,2,5
+589,590,22,0,2,5.7,Twitter,1,6.8,6,Single,3,7
+590,591,19,1,1,7.0,Instagram,1,5.8,4,Single,5,9
+591,592,23,0,2,4.3,Facebook,0,7.5,7,In Relationship,2,5
+592,593,21,1,1,6.9,TikTok,1,6.1,5,Single,4,8
+593,594,24,0,2,5.6,Instagram,1,6.9,6,In Relationship,3,7
+594,595,20,1,1,6.2,Facebook,1,6.3,5,Single,4,8
+595,596,21,0,1,5.8,Instagram,1,6.7,6,Single,3,7
+596,597,23,1,2,4.9,TikTok,0,7.3,7,In Relationship,2,5
+597,598,20,0,1,6.4,Facebook,1,6.2,5,Single,4,8
+598,599,22,1,2,5.1,Twitter,0,7.1,7,In Relationship,2,5
+599,600,19,0,1,6.7,Instagram,1,6.0,4,Single,4,8
+600,601,24,1,2,5.5,WeChat,1,6.8,6,In Relationship,3,7
+601,602,21,0,1,4.3,Twitter,0,7.6,8,Single,2,4
+602,603,23,1,2,6.2,Instagram,1,6.4,5,Single,4,8
+603,604,20,0,1,4.5,Facebook,0,7.4,7,In Relationship,2,5
+604,605,22,1,2,6.3,TikTok,1,6.3,5,Single,4,8
+605,606,19,0,1,4.7,Instagram,0,7.2,7,In Relationship,2,5
+606,607,24,1,2,5.9,Twitter,1,6.6,6,Single,3,7
+607,608,21,0,1,7.1,Facebook,1,5.7,4,Single,5,9
+608,609,23,1,2,4.4,Instagram,0,7.4,7,In Relationship,2,5
+609,610,20,0,1,6.6,TikTok,1,6.2,5,Single,4,8
+610,611,22,1,2,5.4,Instagram,1,6.9,6,In Relationship,3,7
+611,612,19,0,1,6.5,Facebook,1,6.1,5,Single,4,8
+612,613,24,1,2,4.8,Twitter,0,7.3,7,In Relationship,2,5
+613,614,21,0,1,5.7,Instagram,1,6.7,6,Single,3,7
+614,615,23,1,2,6.1,TikTok,1,6.4,5,Single,4,8
+615,616,20,0,1,4.6,Facebook,0,7.2,7,In Relationship,2,5
+616,617,22,1,2,6.8,Instagram,1,5.9,4,Single,5,9
+617,618,19,0,1,5.6,WeChat,1,6.8,6,In Relationship,3,7
+618,619,24,1,2,4.2,Twitter,0,7.5,8,Single,2,4
+619,620,21,0,1,6.3,TikTok,1,6.3,5,Single,4,8
+620,621,23,1,2,4.4,Instagram,0,7.4,7,In Relationship,2,5
+621,622,20,0,1,6.5,Facebook,1,6.2,5,Single,4,8
+622,623,22,1,2,4.6,Twitter,0,7.3,7,In Relationship,2,5
+623,624,19,0,1,5.8,Instagram,1,6.6,6,Single,3,7
+624,625,24,1,2,7.0,TikTok,1,5.8,4,Single,5,9
+625,626,21,0,1,4.5,Facebook,0,7.3,7,In Relationship,2,5
+626,627,23,1,2,6.7,Instagram,1,6.1,5,Single,4,8
+627,628,20,0,1,5.5,Twitter,1,6.8,6,In Relationship,3,7
+628,629,22,1,2,6.4,Facebook,1,6.2,5,Single,4,8
+629,630,19,0,1,4.7,Instagram,0,7.2,7,In Relationship,2,5
+630,631,24,1,2,5.6,TikTok,1,6.7,6,Single,3,7
+631,632,21,0,1,6.2,Facebook,1,6.3,5,Single,4,8
+632,633,23,1,2,4.8,Twitter,0,7.1,7,In Relationship,2,5
+633,634,20,0,1,6.9,Instagram,1,5.9,4,Single,5,9
+634,635,22,1,2,5.7,WeChat,1,6.7,6,In Relationship,3,7
+635,636,19,0,1,4.4,Twitter,0,7.4,8,Single,2,4
+636,637,24,1,2,6.1,TikTok,1,6.4,5,Single,4,8
+637,638,21,0,1,4.3,Instagram,0,7.5,7,In Relationship,2,5
+638,639,23,1,2,6.4,Facebook,1,6.2,5,Single,4,8
+639,640,20,0,1,4.5,Twitter,0,7.3,7,In Relationship,2,5
+640,641,22,1,2,5.9,Instagram,1,6.5,6,Single,3,7
+641,642,19,0,1,7.2,TikTok,1,5.7,4,Single,5,9
+642,643,24,1,2,4.6,Facebook,0,7.2,7,In Relationship,2,5
+643,644,21,0,1,6.8,Instagram,1,6.0,5,Single,4,8
+644,645,23,1,2,5.3,Twitter,1,6.8,6,In Relationship,3,7
+645,646,22,0,2,6.3,Facebook,1,6.2,5,Single,4,8
+646,647,20,1,1,4.8,Instagram,0,7.1,7,In Relationship,2,5
+647,648,23,0,2,5.7,TikTok,1,6.6,6,Single,3,7
+648,649,21,1,1,6.2,Twitter,1,6.3,5,Single,4,8
+649,650,24,0,2,4.7,Facebook,0,7.2,7,In Relationship,2,5
+650,651,19,1,1,6.8,Instagram,1,5.9,4,Single,5,9
+651,652,22,0,2,5.6,WeChat,1,6.7,6,In Relationship,3,7
+652,653,20,1,1,4.3,Twitter,0,7.5,8,Single,2,4
+653,654,23,0,2,6.2,TikTok,1,6.3,5,Single,4,8
+654,655,21,1,1,4.4,Instagram,0,7.4,7,In Relationship,2,5
+655,656,24,0,2,6.5,Facebook,1,6.1,5,Single,4,8
+656,657,19,1,1,4.6,Twitter,0,7.3,7,In Relationship,2,5
+657,658,22,0,2,5.8,Instagram,1,6.6,6,Single,3,7
+658,659,20,1,1,7.1,TikTok,1,5.8,4,Single,5,9
+659,660,23,0,2,4.5,Facebook,0,7.3,7,In Relationship,2,5
+660,661,21,1,1,6.7,Instagram,1,6.0,5,Single,4,8
+661,662,24,0,2,5.4,Twitter,1,6.8,6,In Relationship,3,7
+662,663,19,1,1,6.4,TikTok,1,6.2,5,Single,4,8
+663,664,22,0,2,4.7,Facebook,0,7.2,7,In Relationship,2,5
+664,665,20,1,1,5.6,Instagram,1,6.7,6,Single,3,7
+665,666,23,0,2,6.3,Twitter,1,6.2,5,Single,4,8
+666,667,21,1,1,4.8,TikTok,0,7.1,7,In Relationship,2,5
+667,668,24,0,2,6.9,Instagram,1,5.9,4,Single,5,9
+668,669,19,1,1,5.7,WeChat,1,6.7,6,In Relationship,3,7
+669,670,22,0,2,4.4,Twitter,0,7.4,8,Single,2,4
+670,671,20,1,1,6.1,Facebook,1,6.4,5,Single,4,8
+671,672,23,0,2,4.3,Instagram,0,7.5,7,In Relationship,2,5
+672,673,21,1,1,6.4,TikTok,1,6.2,5,Single,4,8
+673,674,24,0,2,4.5,Twitter,0,7.3,7,In Relationship,2,5
+674,675,19,1,1,5.9,Instagram,1,6.5,6,Single,3,7
+675,676,22,0,2,7.2,Facebook,1,5.7,4,Single,5,9
+676,677,20,1,1,4.6,TikTok,0,7.2,7,In Relationship,2,5
+677,678,23,0,2,6.8,Instagram,1,6.0,5,Single,4,8
+678,679,21,1,1,5.3,Twitter,1,6.8,6,In Relationship,3,7
+679,680,24,0,2,6.2,Facebook,1,6.3,5,Single,4,8
+680,681,19,1,1,4.7,Instagram,0,7.2,7,In Relationship,2,5
+681,682,22,0,2,5.8,TikTok,1,6.6,6,Single,3,7
+682,683,20,1,1,6.1,Twitter,1,6.4,5,Single,4,8
+683,684,23,0,2,4.8,Facebook,0,7.1,7,In Relationship,2,5
+684,685,21,1,1,6.7,Instagram,1,6.0,4,Single,5,9
+685,686,24,0,2,5.5,WeChat,1,6.8,6,In Relationship,3,7
+686,687,19,1,1,4.2,Twitter,0,7.5,8,Single,2,4
+687,688,22,0,2,6.3,TikTok,1,6.2,5,Single,4,8
+688,689,20,1,1,4.4,Instagram,0,7.4,7,In Relationship,2,5
+689,690,23,0,2,6.5,Facebook,1,6.1,5,Single,4,8
+690,691,21,1,1,4.6,Twitter,0,7.3,7,In Relationship,2,5
+691,692,24,0,2,5.9,Instagram,1,6.5,6,Single,3,7
+692,693,19,1,1,7.0,TikTok,1,5.8,4,Single,5,9
+693,694,22,0,2,4.5,Facebook,0,7.3,7,In Relationship,2,5
+694,695,20,1,1,6.6,Instagram,1,6.1,5,Single,4,8
+695,696,23,0,2,5.5,Twitter,1,6.7,6,In Relationship,3,7
+696,697,21,1,1,6.3,TikTok,1,6.2,5,Single,4,8
+697,698,24,0,2,4.8,Facebook,0,7.1,7,In Relationship,2,5
+698,699,19,1,1,5.7,Instagram,1,6.6,6,Single,3,7
+699,700,22,0,2,6.2,Twitter,1,6.3,5,Single,4,8
+700,701,20,1,1,4.7,TikTok,0,7.2,7,In Relationship,2,5
+701,702,23,0,2,6.8,Instagram,1,5.9,4,Single,5,9
+702,703,21,1,1,5.6,WeChat,1,6.7,6,In Relationship,3,7
+703,704,24,0,2,4.3,Twitter,0,7.5,8,Single,2,4
+704,705,19,1,1,6.2,Facebook,1,6.3,5,Single,4,8
